@@ -5,11 +5,11 @@
 #define ST7735_DRIVER
 
 
-#define TFT_WIDTH  80
+#define TFT_WIDTH  128
 #define TFT_HEIGHT 160
 
 
-#define ST7735_GREENTAB160x80
+#define ST7735_GREENAB160x80
 
 // For ST7735, ST7789 and ILI9341 ONLY, define the colour order IF the blue and red are swapped on your display
 // Try ONE option at a time to find the correct colour order for your display
